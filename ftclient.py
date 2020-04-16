@@ -1,13 +1,3 @@
-# ********************************************************************************
-# ** Program name: CS 372 Project 2 - simple file transfer system - client
-# ** Author:       Chen Zou
-# ** Date:         6th August 2019
-# ** Description:  This project requires creating a simple file transfer system that
-# **               transfers file between client and server.This program is to create
-# **			   client that sends command on connection,and receives response from
-# **			   server, either get a file or directory according to the command.
-# *********************************************************************************
-
 import sys
 from socket import *
 from time import sleep

@@ -1,14 +1,4 @@
-/**********************************************************************************
-** Program name: CS 372 Project 2 - simple file transfer system - server 
-** Author:       Chen Zou
-** Date:         6th August 2019
-** Description:  This project requires creating a simple file transfer system that                one pair of users by creating two programs : a chat server and a chat
-**               transfers file between client and server.This program is to create 
-**				 server that receives command on connection,and respond to client
-**			     by either transfer file or list directory according to the command.
-** Note: I reused a lot of code from CS344 assignment, which is heavily based on
-** the code provided by CS344 professor.
-***********************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
